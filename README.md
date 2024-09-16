@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS,ExpressJS,NodeJS**
 
-- 👯 I’m looking to collaborate on **on nothing**
+- 👯 I’m looking to collaborate on ** MERN Projects**
 
 - 🤝 I’m looking for help with **Python,C,Java,C#**
 
