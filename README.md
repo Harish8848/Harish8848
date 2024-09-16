@@ -1,4 +1,4 @@
-![logo](https://github.com/Harish8848/Harish8848/blob/main/harish%20banner.png)
+![logo][(https://github.com/Harish8848/Harish8848/blob/main/banner.png)]
 <h1 align="center">Hi 👋, I'm Harish</h1>
 <h3 align="center">A passionate web developer from Nepal.</h3>
 
