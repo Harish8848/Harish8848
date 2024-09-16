@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harish</h1>
 <h3 align="center">A passionate web developer from Nepal.</h3>
 
-![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWd5eWlhZWcxMjFmaHdndmNoMXZqZDhxMXFycHN1cWZmandlaWVuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif")
+![Alt Text](https://github.com/Harish8848/Harish8848/blob/main/coding.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish8848&label=Profile%20views&color=0e75b6&style=flat" alt="harish8848" /> </p>
 
